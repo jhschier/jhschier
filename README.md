@@ -1,6 +1,6 @@
 ### Hi, I'm João Schier! 👋
 
-👨‍💻 Network & Informatics Technician 🛠️ | Front-End Dev 🌐 | Proficient in HTML & CSS 💻 | Exploring JavaScript & React 🚀 | Tech Enthusiast📚 <br>
+I'm a Network & Informatics Technician and Front-End Developer with a strong foundation in HTML & CSS. My journey began with graduation in Network and Informatic Systems, sparking my passion for technology. I'm currently immersed in the world of web development, delving into JavaScript & React. My thirst for knowledge drives me to seek new challenges and opportunities for growth <br>
 
 #### Let's Connect:
 <p>
