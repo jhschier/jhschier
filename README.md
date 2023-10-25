@@ -1,6 +1,6 @@
 ### Hi, I'm João Schier! 👋
 
-I'm a Network & Informatics Technician and Front-End Developer with a strong foundation in HTML & CSS. My journey began with graduation in Network and Informatic Systems, sparking my passion for technology. I'm currently immersed in the world of web development, delving into JavaScript & React. My thirst for knowledge drives me to seek new challenges and opportunities for growth. <br>
+I'm a FullStack Developer & Network and Informatics Technician with a strong foundation in HTML,CSS, JavaScript and Node. My journey began with graduation in Network and Informatic Systems, sparking my passion for technology. I'm currently immersed in the world oF development, delving into React & TypeScript. My thirst for knowledge drives me to seek new challenges and opportunities for growth. <br>
 
 #### Let's Connect:
 <p>
@@ -15,6 +15,7 @@ I'm a Network & Informatics Technician and Front-End Developer with a strong fou
 
 #### Languages and Tools: <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <br><br>
