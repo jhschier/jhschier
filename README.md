@@ -1,5 +1,5 @@
 # 💫 About Me:
-FullStack Developer based in Porto, Portugal.
+Tech Lead @ AISquare. Based in Porto, Portugal.
 
 
 ## 🌐 Socials:
